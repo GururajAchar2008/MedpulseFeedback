@@ -98,7 +98,7 @@ export default function FeedbackForm() {
           ) : (
             <form
               className="form"
-              action="https://formspree.io/f/xpqoyron"
+              action="https://formspree.io/f/mwvwrqly"
               method="POST"
             >
               <div className="field">
